@@ -89,4 +89,4 @@ Make sure you have the following installed:
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Contact
-For any queries, reach out to "Satyam Kumar" at *22053017@kiit.ac.in*.
+For any queries, reach out to "Satyam Kumar" at *22052801@kiit.ac.in*.
